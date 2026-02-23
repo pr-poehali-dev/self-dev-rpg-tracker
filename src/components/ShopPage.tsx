@@ -43,7 +43,7 @@ export default function ShopPage() {
         <div>
           <div className="font-oswald text-xs text-muted-foreground tracking-widest">БАЛАНС</div>
           <div className="font-oswald text-3xl gradient-text-gold">{coins}</div>
-          <div className="text-xs text-muted-foreground font-montserrat">монет · зарабатывай XP!</div>
+          <div className="text-xs text-muted-foreground font-montserrat">монет · зарабатывай единицы!</div>
         </div>
       </div>
 
